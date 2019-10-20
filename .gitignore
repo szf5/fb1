@@ -1,3 +1,12 @@
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
 # Logs
 firebase-debug.log
 logs
